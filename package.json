@@ -27,6 +27,7 @@
     "test:lint": "eslint --ext .js,.ts --ignore-path .gitignore ."
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "ethers": "^5.0.26",
     "zksync": "^0.8.4"
   }
